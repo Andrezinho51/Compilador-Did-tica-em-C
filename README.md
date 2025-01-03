@@ -12,8 +12,8 @@ Observação: Se desejar manipular o código, utilizando-o como um projeto no Co
 
 CodeBlocks, vá para Project -> Build Options -> Linker Settings e adicione:
 
-gdi32
-user32
-kernel32
-comctl32
+gdi32,
+user32,
+kernel32,
+comctl32,
 comdlg32
