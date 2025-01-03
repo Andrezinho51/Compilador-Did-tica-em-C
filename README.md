@@ -1,4 +1,4 @@
-# Compilador-Did-tica-em-C
+# Compilador-Didatica-em-C
 
 Como utilizar o compilador e a máquina virtual:
 
